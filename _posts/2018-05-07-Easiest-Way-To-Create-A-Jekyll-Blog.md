@@ -14,12 +14,12 @@ author: aswin
 # Easiest way to create a Jekyll blog.
 
 1. **Pick a theme** that you like on github.
-- [Jekyll Now](https://github.com/barryclark/jekyll-now) | [Demo](http://www.jekyllnow.com/).
-- [Poole](https://github.com/poole/poole) | [Demo](http://demo.getpoole.com/).
-- [Hyde](https://github.com/poole/hyde) | [Demo](http://hyde.getpoole.com/).
-- [Lanyon](https://github.com/poole/lanyon) | [Demo](http://lanyon.getpoole.com/).
-- [Left](https://github.com/holman/left) | [Demo](http://zachholman.com/posts/left).
-- [Skinny Bones](https://github.com/mmistakes/skinny-bones-jekyll) | [Demo](https://mmistakes.github.io/skinny-bones-jekyll/)
+- [Jekyll Now](https://github.com/barryclark/jekyll-now), [Demo](http://www.jekyllnow.com/).
+- [Poole](https://github.com/poole/poole), [Demo](http://demo.getpoole.com/).
+- [Hyde](https://github.com/poole/hyde), [Demo](http://hyde.getpoole.com/).
+- [Lanyon](https://github.com/poole/lanyon), [Demo](http://lanyon.getpoole.com/).
+- [Left](https://github.com/holman/left), [Demo](http://zachholman.com/posts/left).
+- [Skinny Bones](https://github.com/mmistakes/skinny-bones-jekyll), [Demo](https://mmistakes.github.io/skinny-bones-jekyll/)
 ... and a lot more!
 I chose [Jasper2](https://github.com/jekyller/jasper2).
 2. **Fork** the repository by clicking the fork button on the top right. You can give it a name of your choice or keep the original name. If you want the blog to be available at yourgithubusername.github.io, name your repo `yourgithubusername.github.io` and follow this [Quick Start guide](https://github.com/barryclark/jekyll-now). If you want the blog at a url path like yourgithubusername.github.io/blog/ or similar, name your repo based on the path following the domain (`blog` in this example) and follow the rest of the steps.
