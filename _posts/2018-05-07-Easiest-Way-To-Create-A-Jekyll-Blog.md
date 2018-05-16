@@ -31,10 +31,11 @@ I chose [Jasper2](https://github.com/jekyller/jasper2).
 
 The source for this blog is at [https://github.com/neo-anderson/blog](https://github.com/neo-anderson/blog) and I forked the base from [https://github.com/jekyller/jasper2](https://github.com/jekyller/jasper2)
 
-# Next Steps
-1. Add CNAME files and configure custom domain
+# Next Steps (More like notes to self)
+1. Add CNAME files and configure custom domain. Eg: asw.in/blog/
 2. Go through the source files and config files and personalize the blog according to your needs. 
 3. Add SEO plugin https://github.com/jekyll/jekyll-seo-tag
+4. Use Google Webmasters tool to add the following properties - http://asw.in/blog/, https://asw.in/blog/, http://www.asw.in/blog/, https://www.asw.in/blog/
 
 # Resources for setting up domain
 - https://stackoverflow.com/questions/31914048/how-to-set-up-two-jekyll-blogs-on-github-pages-with-the-same-domain-cname
