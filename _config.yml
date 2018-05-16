@@ -14,7 +14,7 @@ cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: https://neo-anderson.github.io/blog/
+production_url: https://asw.in/blog/
 source_url: https://github.com/neo-anderson/blog/
 
 # Social info
@@ -41,7 +41,7 @@ permalink: /:title
 # Tags' info in `_data/tags_info.yml`
 
 # gems and other configs
-plugins: [jekyll-paginate, jekyll-feed]
+plugins: [jekyll-paginate, jekyll-feed, jekyll-seo-tag]
 
 feed:
   path: feed.xml
@@ -71,7 +71,7 @@ repo: blog
 branch: master
 relative_source: ../jasper2/
 destination: ../jasper2-pages/
-production_url:  https://neo-anderson.github.io/blog/
+production_url:  https://asw.in/blog/
 source_url:  https://github.com/neo-anderson/blog/
 
 exclude:
