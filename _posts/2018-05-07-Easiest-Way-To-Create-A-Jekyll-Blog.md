@@ -35,3 +35,7 @@ The source for this blog is at [https://github.com/neo-anderson/blog](https://gi
 1. Add CNAME files and configure custom domain
 2. Go through the source files and config files and personalize the blog according to your needs. 
 3. Add SEO plugin https://github.com/jekyll/jekyll-seo-tag
+
+# Resources for setting up domain
+- https://stackoverflow.com/questions/31914048/how-to-set-up-two-jekyll-blogs-on-github-pages-with-the-same-domain-cname
+> The simplest ways to manage custom domain on ghp is to set a CNAME (pointing to example.com) on username.github.io and any project repository hosting a gh-pages branch can be naturally reached at example.com/repositoryName
