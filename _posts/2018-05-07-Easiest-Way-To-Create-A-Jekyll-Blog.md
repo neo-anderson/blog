@@ -36,6 +36,7 @@ The source for this blog is at [https://github.com/neo-anderson/blog](https://gi
 2. Go through the source files and config files and personalize the blog according to your needs. 
 3. Add SEO plugin https://github.com/jekyll/jekyll-seo-tag
 4. Use Google Webmasters tool to add the following properties - http://asw.in/blog/, https://asw.in/blog/, http://www.asw.in/blog/, https://www.asw.in/blog/
+5. Set preferred domain to asw.in, instead of www.asw.in because it looks cooler!
 
 # Resources for setting up domain
 - https://stackoverflow.com/questions/31914048/how-to-set-up-two-jekyll-blogs-on-github-pages-with-the-same-domain-cname
