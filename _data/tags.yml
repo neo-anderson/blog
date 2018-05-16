@@ -14,3 +14,7 @@ getting-started:
   name: getting-started
   description: False
   cover: False
+tutorial:
+  name: tutorial
+  description: A splendid tutorial from yours truly!
+  cover: assets/images/advanced.jpg
