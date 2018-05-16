@@ -30,3 +30,8 @@ I chose [Jasper2](https://github.com/jekyller/jasper2).
 7. Congrats! Your blog should be online at yourgithubusername.github.io/blog/ or whatever path you chose in step 2. You can change this path by modifying the repository name and editing the `_config.yml`.
 
 The source for this blog is at [https://github.com/neo-anderson/blog](https://github.com/neo-anderson/blog) and I forked the base from [https://github.com/jekyller/jasper2](https://github.com/jekyller/jasper2)
+
+# Next Steps
+1. Add CNAME files and configure custom domain
+2. Go through the source files and config files and personalize the blog according to your needs. 
+3. Add SEO plugin https://github.com/jekyll/jekyll-seo-tag
