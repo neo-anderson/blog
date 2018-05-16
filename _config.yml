@@ -9,7 +9,7 @@ baseurl: "/blog/"
 
 # Website info
 title: Aswin's Blog
-description: Tech, Code and Music
+description: Aswin Rajkumar's personal blog about tech, code and music
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
