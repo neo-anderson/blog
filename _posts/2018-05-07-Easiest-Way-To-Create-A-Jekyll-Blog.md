@@ -38,6 +38,7 @@ The source for this blog is at [https://github.com/neo-anderson/blog](https://gi
 4. Use Google Webmasters tool to add properties - Eg: http://domain.com/blog/, https://domain.com/blog/, http://www.domain.com/blog/, https://www.domain.com/blog/
 5. In the Webmasters tool, set the preferred domain to `domain.com`, instead of `www.domain.com` because the former looks cooler!
 6. Submit the blog to other search engines.
+7. Cross post to Medium (don't forget to add canonical link), steemit/busy (no canonical link feature unfortunately) and others.
 
 # Resources
 - [Why Jekyll? Read this story](https://intersect.whitefusion.io/open-web/goodbye-medium-hello-jekyll)
