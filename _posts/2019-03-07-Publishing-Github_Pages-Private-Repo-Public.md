@@ -15,7 +15,7 @@ author: aswin
 
 Publishing Github Pages from private repositories is a Github Pro feature at the time of writing this blog post. See [billing](https://help.github.com/articles/github-s-billing-plans/#billing-plans-for-personal-accounts). If you turn the repository private, your Github Pages site/blog will not be accessible if you are using GitHub Free.
 
-However, if you set your private repository public again, your Github Pages site/blog will not published automatically. To publish your site/blog again, follow these steps:
+However, once you set your repo private, if you set it back to public, your Github Pages site/blog will not be published automatically. To publish your site/blog again, follow these steps:
 
 1. Make the repository public again in the settings.
 2. Push a new commit. A new commit should be pushed before your site will be built and served again.
