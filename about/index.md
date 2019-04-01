@@ -8,4 +8,4 @@ class: page-template
 subclass: 'post page'
 ---
 
-Aswin Rajkumar is a data scientist 📊, software engineer 💻, musician 🎵 and a motorcycle enthusiast 🏍. To check out more, visit [http://asw.in](asw.in). 
+Aswin Rajkumar is a data scientist 📊, software engineer 💻, musician 🎵 and a motorcycle enthusiast 🏍. To check out more, visit [asw.in](http://asw.in). 
