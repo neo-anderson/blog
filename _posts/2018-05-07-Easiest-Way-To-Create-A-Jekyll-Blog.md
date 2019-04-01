@@ -5,7 +5,7 @@ cover:  assets/images/welcome.jpg
 navigation: True
 title: Easiest way to create a Jekyll blog
 date: 2018-05-07 14:01:00
-tags: [Getting started, tutorial]
+tags: [getting started, tutorial]
 class: post-template
 subclass: 'post tag-getting-started'
 author: aswin
